@@ -1,0 +1,1001 @@
+Company,Industry,Country,Layoff_Count,Total_Employees,Layoff_Percentage,Layoff_Date,Layoff_Reason,Is_Hiring_Freeze
+Capgemini,Consulting,France,13,3070,0.42,24-06-2024,Other,Yes
+Salesforce,SaaS,United States,40,6917,0.58,23-10-2023,Other,No
+Capgemini,Consulting,France,122,6208,1.97,18-05-2024,Merger,No
+Infosys,IT Services,India,473,6547,7.22,21-05-2024,Other,No
+Infosys,IT Services,India,478,7466,6.4,19-03-2024,Cost Cutting,No
+SAP,Enterprise Software,Germany,21,4571,0.46,10-05-2025,Merger,No
+Netflix,Entertainment,United States,483,3689,13.09,24-09-2023,Pandemic,Yes
+Infosys,IT Services,India,57,3946,1.44,06-11-2024,Automation,No
+Google,Tech,United States,386,2602,14.83,04-12-2023,Pandemic,No
+Tencent,Tech,China,267,7228,3.69,12-07-2024,Pandemic,No
+Infosys,IT Services,India,329,3548,9.27,09-04-2024,Other,Yes
+Spotify,Music,Sweden,389,10184,3.82,10-02-2025,Other,Yes
+Oracle,Enterprise Software,United States,199,6471,3.08,01-12-2024,Automation,No
+Meta,Social Media,United States,180,3127,5.76,07-06-2024,Other,No
+Capgemini,Consulting,France,106,2884,3.68,20-08-2023,Other,No
+Spotify,Music,Sweden,287,5906,4.86,16-05-2025,Pandemic,Yes
+Nokia,Telecom,Finland,12,199,6.03,20-03-2025,Merger,Yes
+Microsoft,Tech,United States,248,9359,2.65,14-10-2023,Automation,Yes
+Netflix,Entertainment,United States,281,3693,7.61,10-03-2024,Cost Cutting,No
+Apple,Tech,United States,485,4271,11.36,27-05-2025,Pandemic,Yes
+Netflix,Entertainment,United States,450,4658,9.66,14-06-2024,Cost Cutting,No
+Intel,Semiconductors,United States,30,8024,0.37,11-03-2024,Cost Cutting,No
+Amazon,E-commerce,United States,229,8238,2.78,22-02-2025,Automation,No
+Salesforce,SaaS,United States,81,6499,1.25,04-12-2024,Restructuring,No
+Atlassian,Software,Australia,103,2687,3.83,13-02-2025,Cost Cutting,No
+Netflix,Entertainment,United States,26,9121,0.29,08-05-2024,Other,No
+Atlassian,Software,Australia,404,9184,4.4,29-10-2023,Cost Cutting,No
+Infosys,IT Services,India,289,1302,22.2,11-03-2024,Restructuring,No
+Alibaba,E-commerce,China,100,9389,1.07,05-09-2024,Merger,No
+Apple,Tech,United States,327,5419,6.03,14-10-2024,Restructuring,No
+Microsoft,Tech,United States,468,2466,18.98,15-10-2023,Merger,Yes
+Intel,Semiconductors,United States,133,6413,2.07,20-11-2024,Other,Yes
+Alibaba,E-commerce,China,349,4323,8.07,25-01-2024,Merger,Yes
+Google,Tech,United States,257,3795,6.77,09-02-2024,Restructuring,Yes
+Spotify,Music,Sweden,445,9559,4.66,11-05-2024,Cost Cutting,Yes
+IBM,IT Services,United States,53,3011,1.76,28-03-2024,Other,No
+Netflix,Entertainment,United States,434,8860,4.9,06-11-2023,Merger,Yes
+Netflix,Entertainment,United States,16,7720,0.21,25-08-2023,Restructuring,Yes
+Intel,Semiconductors,United States,466,1608,28.98,14-12-2024,Pandemic,Yes
+Alibaba,E-commerce,China,164,8685,1.89,07-09-2024,Cost Cutting,No
+SAP,Enterprise Software,Germany,251,7612,3.3,20-08-2024,Merger,Yes
+Atlassian,Software,Australia,494,6224,7.94,09-10-2023,Automation,Yes
+Capgemini,Consulting,France,364,9027,4.03,11-08-2024,Cost Cutting,Yes
+SAP,Enterprise Software,Germany,285,8145,3.5,28-01-2024,Pandemic,No
+Netflix,Entertainment,United States,228,6965,3.27,31-12-2024,Other,Yes
+Spotify,Music,Sweden,205,2190,9.36,14-06-2024,Other,Yes
+Accenture,Consulting,Ireland,375,2751,13.63,13-10-2024,Pandemic,No
+Infosys,IT Services,India,426,3004,14.18,20-01-2025,Restructuring,Yes
+Accenture,Consulting,Ireland,358,5084,7.04,17-02-2024,Other,Yes
+Spotify,Music,Sweden,440,4365,10.08,04-02-2024,Other,No
+Tencent,Tech,China,466,1722,27.06,25-09-2024,Pandemic,Yes
+Apple,Tech,United States,261,5820,4.48,26-05-2025,Automation,Yes
+Spotify,Music,Sweden,460,9627,4.78,26-07-2023,Restructuring,No
+Infosys,IT Services,India,385,6987,5.51,18-02-2024,Pandemic,No
+Microsoft,Tech,United States,288,5712,5.04,09-09-2024,Other,Yes
+Spotify,Music,Sweden,367,1526,24.05,10-07-2025,Merger,Yes
+Infosys,IT Services,India,243,9790,2.48,10-05-2024,Other,No
+Infosys,IT Services,India,364,5849,6.22,05-06-2025,Other,No
+SAP,Enterprise Software,Germany,244,5574,4.38,28-12-2024,Cost Cutting,Yes
+SAP,Enterprise Software,Germany,316,9183,3.44,21-11-2023,Automation,Yes
+Amazon,E-commerce,United States,238,1279,18.61,11-03-2025,Automation,Yes
+Google,Tech,United States,70,5045,1.39,30-01-2025,Automation,Yes
+TCS,IT Services,India,456,3691,12.35,22-08-2023,Other,Yes
+Apple,Tech,United States,378,5287,7.15,09-02-2025,Merger,No
+TCS,IT Services,India,150,4901,3.06,27-02-2024,Pandemic,No
+Nokia,Telecom,Finland,269,7796,3.45,10-12-2023,Cost Cutting,No
+Oracle,Enterprise Software,United States,404,6153,6.57,07-03-2024,Cost Cutting,No
+Intel,Semiconductors,United States,105,5596,1.88,18-08-2024,Other,No
+Intel,Semiconductors,United States,53,6337,0.84,18-04-2024,Merger,No
+Nokia,Telecom,Finland,309,7150,4.32,21-07-2025,Restructuring,Yes
+Meta,Social Media,United States,233,5594,4.17,30-10-2023,Pandemic,Yes
+IBM,IT Services,United States,357,2460,14.51,31-12-2024,Automation,No
+Capgemini,Consulting,France,168,5810,2.89,24-03-2025,Restructuring,No
+Capgemini,Consulting,France,330,1891,17.45,11-07-2025,Other,No
+Atlassian,Software,Australia,157,5111,3.07,01-09-2024,Other,No
+Accenture,Consulting,Ireland,388,5394,7.19,14-11-2024,Other,No
+Atlassian,Software,Australia,179,5800,3.09,30-09-2024,Other,Yes
+Salesforce,SaaS,United States,429,7767,5.52,10-09-2023,Merger,Yes
+Salesforce,SaaS,United States,315,8823,3.57,22-04-2025,Pandemic,No
+Amazon,E-commerce,United States,134,7616,1.76,21-05-2025,Pandemic,No
+IBM,IT Services,United States,12,1383,0.87,22-05-2025,Other,No
+Microsoft,Tech,United States,11,4657,0.24,30-10-2023,Pandemic,No
+IBM,IT Services,United States,302,3130,9.65,18-10-2024,Restructuring,No
+TCS,IT Services,India,130,1283,10.13,16-01-2025,Other,Yes
+Salesforce,SaaS,United States,207,6894,3,17-02-2024,Restructuring,No
+Accenture,Consulting,Ireland,234,1579,14.82,24-03-2025,Merger,Yes
+Accenture,Consulting,Ireland,188,8348,2.25,31-05-2025,Automation,Yes
+Atlassian,Software,Australia,348,6309,5.52,13-12-2024,Restructuring,Yes
+Nokia,Telecom,Finland,156,5649,2.76,25-06-2025,Other,No
+Google,Tech,United States,474,4062,11.67,04-02-2024,Cost Cutting,No
+Oracle,Enterprise Software,United States,440,1403,31.36,18-08-2023,Restructuring,No
+Nokia,Telecom,Finland,12,3966,0.3,26-08-2023,Restructuring,Yes
+Atlassian,Software,Australia,184,1395,13.19,08-03-2025,Other,No
+Salesforce,SaaS,United States,404,3980,10.15,14-09-2023,Pandemic,No
+SAP,Enterprise Software,Germany,416,8714,4.77,18-10-2023,Cost Cutting,No
+Nokia,Telecom,Finland,484,9589,5.05,07-02-2025,Automation,Yes
+Accenture,Consulting,Ireland,150,9610,1.56,18-10-2024,Cost Cutting,No
+Oracle,Enterprise Software,United States,200,5053,3.96,12-08-2023,Automation,No
+Alibaba,E-commerce,China,74,3827,1.93,12-12-2023,Merger,Yes
+Microsoft,Tech,United States,233,8016,2.91,15-02-2025,Pandemic,Yes
+Amazon,E-commerce,United States,43,3181,1.35,23-03-2025,Merger,No
+Alibaba,E-commerce,China,356,9486,3.75,12-07-2025,Restructuring,Yes
+IBM,IT Services,United States,331,4288,7.72,10-01-2025,Restructuring,No
+Google,Tech,United States,428,2505,17.09,20-12-2024,Pandemic,No
+Infosys,IT Services,India,355,9792,3.63,30-03-2024,Merger,No
+Oracle,Enterprise Software,United States,236,828,28.5,29-08-2023,Cost Cutting,Yes
+Intel,Semiconductors,United States,440,6256,7.03,18-04-2025,Merger,Yes
+Microsoft,Tech,United States,275,7830,3.51,23-04-2025,Automation,No
+Intel,Semiconductors,United States,264,2612,10.11,02-02-2025,Other,No
+Google,Tech,United States,56,8546,0.66,08-07-2024,Restructuring,Yes
+Infosys,IT Services,India,217,5795,3.74,03-02-2025,Cost Cutting,No
+Amazon,E-commerce,United States,232,3328,6.97,14-07-2025,Restructuring,Yes
+SAP,Enterprise Software,Germany,438,1981,22.11,13-10-2023,Merger,No
+Tencent,Tech,China,123,3411,3.61,10-10-2024,Pandemic,Yes
+Netflix,Entertainment,United States,224,8540,2.62,04-01-2025,Cost Cutting,No
+SAP,Enterprise Software,Germany,289,6055,4.77,16-12-2023,Other,No
+Meta,Social Media,United States,485,8860,5.47,16-07-2024,Pandemic,No
+Google,Tech,United States,367,7058,5.2,25-12-2023,Other,No
+Google,Tech,United States,267,7721,3.46,29-08-2024,Merger,Yes
+Capgemini,Consulting,France,341,8408,4.06,09-11-2024,Automation,Yes
+Spotify,Music,Sweden,317,10039,3.16,26-01-2025,Pandemic,Yes
+Amazon,E-commerce,United States,192,3840,5,31-01-2024,Pandemic,Yes
+Oracle,Enterprise Software,United States,483,7577,6.37,19-08-2024,Merger,No
+Apple,Tech,United States,399,5227,7.63,14-07-2024,Cost Cutting,Yes
+Oracle,Enterprise Software,United States,351,10226,3.43,30-03-2024,Other,No
+Alibaba,E-commerce,China,331,8016,4.13,29-06-2025,Merger,No
+Nokia,Telecom,Finland,176,5630,3.13,23-07-2025,Pandemic,No
+TCS,IT Services,India,90,8087,1.11,03-11-2024,Restructuring,No
+Microsoft,Tech,United States,215,7658,2.81,15-06-2025,Restructuring,Yes
+TCS,IT Services,India,18,477,3.77,07-08-2024,Pandemic,No
+Capgemini,Consulting,France,18,9280,0.19,13-06-2024,Cost Cutting,Yes
+Apple,Tech,United States,60,9671,0.62,22-12-2024,Pandemic,Yes
+Infosys,IT Services,India,488,10163,4.8,23-04-2024,Restructuring,Yes
+Atlassian,Software,Australia,106,5017,2.11,25-05-2025,Automation,Yes
+Amazon,E-commerce,United States,438,6302,6.95,23-01-2024,Pandemic,Yes
+Nokia,Telecom,Finland,497,9906,5.02,11-07-2024,Pandemic,Yes
+Tencent,Tech,China,453,567,79.89,25-09-2024,Automation,No
+Nokia,Telecom,Finland,387,2179,17.76,31-05-2025,Cost Cutting,No
+Alibaba,E-commerce,China,351,4718,7.44,18-01-2025,Merger,Yes
+Microsoft,Tech,United States,67,9776,0.69,23-09-2024,Restructuring,No
+Amazon,E-commerce,United States,235,7172,3.28,06-05-2024,Restructuring,Yes
+Netflix,Entertainment,United States,169,7983,2.12,12-11-2023,Other,Yes
+Alibaba,E-commerce,China,71,1461,4.86,03-04-2024,Merger,Yes
+Tencent,Tech,China,366,3684,9.93,31-05-2025,Merger,Yes
+Nokia,Telecom,Finland,464,9158,5.07,03-07-2024,Merger,Yes
+Apple,Tech,United States,120,10044,1.19,23-06-2024,Merger,No
+Atlassian,Software,Australia,125,6040,2.07,28-09-2023,Restructuring,Yes
+Oracle,Enterprise Software,United States,384,9218,4.17,20-02-2025,Pandemic,No
+Apple,Tech,United States,415,8077,5.14,04-04-2024,Pandemic,No
+TCS,IT Services,India,179,9877,1.81,04-09-2023,Automation,No
+Alibaba,E-commerce,China,298,1576,18.91,24-10-2024,Pandemic,No
+Alibaba,E-commerce,China,230,885,25.99,31-05-2024,Other,No
+Apple,Tech,United States,375,2081,18.02,19-11-2023,Cost Cutting,No
+Spotify,Music,Sweden,111,2009,5.53,22-10-2023,Cost Cutting,Yes
+Netflix,Entertainment,United States,103,4783,2.15,10-04-2025,Other,No
+Google,Tech,United States,415,852,48.71,27-07-2024,Merger,Yes
+Alibaba,E-commerce,China,55,933,5.89,26-06-2024,Automation,Yes
+Atlassian,Software,Australia,371,2744,13.52,19-01-2025,Restructuring,Yes
+Infosys,IT Services,India,418,6184,6.76,20-11-2023,Other,No
+Capgemini,Consulting,France,67,2469,2.71,30-10-2023,Pandemic,No
+TCS,IT Services,India,315,2012,15.66,07-07-2025,Pandemic,Yes
+Alibaba,E-commerce,China,447,7495,5.96,21-02-2024,Restructuring,No
+Oracle,Enterprise Software,United States,413,9953,4.15,23-10-2023,Cost Cutting,Yes
+Capgemini,Consulting,France,113,7845,1.44,09-07-2025,Other,Yes
+Microsoft,Tech,United States,174,2286,7.61,27-04-2024,Merger,No
+Netflix,Entertainment,United States,68,3023,2.25,18-02-2024,Automation,No
+Salesforce,SaaS,United States,80,1353,5.91,11-11-2024,Cost Cutting,Yes
+Accenture,Consulting,Ireland,194,1090,17.8,31-12-2023,Automation,Yes
+Atlassian,Software,Australia,25,8365,0.3,15-07-2024,Merger,Yes
+Capgemini,Consulting,France,422,3926,10.75,20-03-2024,Pandemic,No
+Oracle,Enterprise Software,United States,130,2959,4.39,22-07-2024,Other,No
+Accenture,Consulting,Ireland,92,7364,1.25,04-02-2025,Merger,Yes
+Atlassian,Software,Australia,86,9805,0.88,30-03-2024,Cost Cutting,Yes
+Google,Tech,United States,254,612,41.5,05-05-2025,Pandemic,Yes
+Netflix,Entertainment,United States,261,8690,3,18-05-2025,Merger,No
+Intel,Semiconductors,United States,333,4948,6.73,02-01-2025,Pandemic,Yes
+Spotify,Music,Sweden,132,1049,12.58,29-12-2024,Pandemic,Yes
+Capgemini,Consulting,France,194,2709,7.16,08-08-2023,Automation,No
+Netflix,Entertainment,United States,261,3411,7.65,17-02-2024,Automation,No
+Atlassian,Software,Australia,371,6370,5.82,19-06-2025,Cost Cutting,No
+Accenture,Consulting,Ireland,32,2946,1.09,17-07-2024,Merger,No
+Nokia,Telecom,Finland,227,1078,21.06,10-06-2024,Other,Yes
+Alibaba,E-commerce,China,460,7568,6.08,27-01-2024,Restructuring,Yes
+Intel,Semiconductors,United States,313,8854,3.54,27-02-2024,Merger,Yes
+Intel,Semiconductors,United States,422,9687,4.36,19-08-2023,Pandemic,No
+Nokia,Telecom,Finland,347,8357,4.15,05-05-2025,Cost Cutting,No
+Capgemini,Consulting,France,447,6667,6.7,11-09-2024,Cost Cutting,No
+Atlassian,Software,Australia,112,942,11.89,25-09-2023,Restructuring,Yes
+Nokia,Telecom,Finland,135,3808,3.55,08-08-2024,Pandemic,No
+Netflix,Entertainment,United States,320,6927,4.62,10-11-2023,Pandemic,Yes
+Alibaba,E-commerce,China,187,9565,1.96,26-06-2025,Cost Cutting,Yes
+Google,Tech,United States,410,691,59.33,19-02-2024,Other,Yes
+Salesforce,SaaS,United States,445,8382,5.31,20-10-2024,Cost Cutting,Yes
+Intel,Semiconductors,United States,453,963,47.04,02-01-2024,Restructuring,No
+Amazon,E-commerce,United States,498,659,75.57,14-05-2025,Other,No
+Accenture,Consulting,Ireland,318,9690,3.28,20-07-2024,Other,Yes
+Capgemini,Consulting,France,261,2762,9.45,22-06-2025,Restructuring,Yes
+Alibaba,E-commerce,China,262,3542,7.4,16-09-2024,Other,No
+Accenture,Consulting,Ireland,246,868,28.34,06-01-2025,Automation,Yes
+Google,Tech,United States,324,8749,3.7,15-07-2025,Cost Cutting,No
+Alibaba,E-commerce,China,457,4004,11.41,06-01-2024,Restructuring,Yes
+Tencent,Tech,China,85,7356,1.16,10-08-2023,Pandemic,Yes
+Salesforce,SaaS,United States,385,4860,7.92,20-09-2023,Other,Yes
+TCS,IT Services,India,445,10161,4.38,08-07-2025,Other,No
+Microsoft,Tech,United States,343,4686,7.32,13-06-2024,Automation,Yes
+Nokia,Telecom,Finland,408,7089,5.76,13-07-2024,Other,No
+Microsoft,Tech,United States,176,5732,3.07,05-08-2024,Cost Cutting,Yes
+Atlassian,Software,Australia,277,3336,8.3,24-10-2023,Other,Yes
+Netflix,Entertainment,United States,109,5645,1.93,09-06-2024,Other,Yes
+Spotify,Music,Sweden,307,8647,3.55,30-04-2025,Restructuring,No
+Netflix,Entertainment,United States,228,5646,4.04,19-04-2024,Cost Cutting,Yes
+Alibaba,E-commerce,China,211,4316,4.89,21-12-2024,Automation,No
+Accenture,Consulting,Ireland,363,2725,13.32,21-05-2025,Other,Yes
+Apple,Tech,United States,160,4468,3.58,10-12-2024,Merger,Yes
+Infosys,IT Services,India,305,5697,5.35,22-11-2024,Cost Cutting,No
+Tencent,Tech,China,305,9154,3.33,26-03-2024,Cost Cutting,Yes
+Amazon,E-commerce,United States,236,4176,5.65,22-03-2024,Cost Cutting,Yes
+Salesforce,SaaS,United States,222,357,62.18,26-05-2024,Cost Cutting,Yes
+Infosys,IT Services,India,348,7661,4.54,30-11-2024,Restructuring,No
+IBM,IT Services,United States,439,7414,5.92,27-12-2024,Merger,Yes
+IBM,IT Services,United States,24,2842,0.84,09-10-2024,Pandemic,No
+Apple,Tech,United States,412,581,70.91,18-09-2024,Cost Cutting,No
+Google,Tech,United States,270,9821,2.75,23-03-2024,Pandemic,No
+Meta,Social Media,United States,69,6783,1.02,07-11-2024,Restructuring,Yes
+Nokia,Telecom,Finland,112,1777,6.3,17-11-2024,Merger,Yes
+Spotify,Music,Sweden,87,4271,2.04,27-04-2025,Automation,No
+Tencent,Tech,China,412,545,75.6,12-06-2024,Automation,No
+Amazon,E-commerce,United States,408,6583,6.2,01-07-2025,Automation,Yes
+Meta,Social Media,United States,254,6830,3.72,12-03-2024,Other,No
+Accenture,Consulting,Ireland,271,1245,21.77,31-08-2023,Automation,Yes
+Alibaba,E-commerce,China,259,7060,3.67,11-11-2024,Automation,No
+TCS,IT Services,India,281,1599,17.57,03-03-2025,Merger,No
+Alibaba,E-commerce,China,446,8403,5.31,19-08-2023,Cost Cutting,No
+Nokia,Telecom,Finland,338,5031,6.72,26-05-2024,Automation,No
+Netflix,Entertainment,United States,28,6273,0.45,29-04-2025,Other,Yes
+TCS,IT Services,India,356,7310,4.87,18-05-2024,Cost Cutting,Yes
+Tencent,Tech,China,484,7604,6.37,23-06-2024,Pandemic,No
+Tencent,Tech,China,450,7013,6.42,08-08-2023,Cost Cutting,No
+Salesforce,SaaS,United States,205,2499,8.2,07-01-2025,Other,No
+TCS,IT Services,India,198,6782,2.92,04-09-2023,Other,No
+Oracle,Enterprise Software,United States,462,809,57.11,05-02-2025,Pandemic,Yes
+Alibaba,E-commerce,China,245,6758,3.63,03-08-2023,Cost Cutting,Yes
+SAP,Enterprise Software,Germany,250,5225,4.78,21-11-2023,Other,Yes
+Intel,Semiconductors,United States,360,3324,10.83,18-01-2024,Pandemic,No
+SAP,Enterprise Software,Germany,482,2269,21.24,22-07-2024,Cost Cutting,No
+Netflix,Entertainment,United States,57,4096,1.39,10-01-2025,Other,No
+Microsoft,Tech,United States,398,6703,5.94,30-04-2024,Cost Cutting,No
+Infosys,IT Services,India,102,9412,1.08,02-04-2025,Merger,No
+Accenture,Consulting,Ireland,415,2426,17.11,05-02-2024,Pandemic,Yes
+Spotify,Music,Sweden,30,2122,1.41,07-11-2024,Cost Cutting,No
+Amazon,E-commerce,United States,114,846,13.48,17-05-2024,Merger,Yes
+Apple,Tech,United States,99,6715,1.47,01-02-2025,Other,Yes
+Capgemini,Consulting,France,111,9615,1.15,14-10-2023,Merger,No
+Capgemini,Consulting,France,255,6668,3.82,11-10-2023,Pandemic,Yes
+Meta,Social Media,United States,256,3008,8.51,04-03-2025,Cost Cutting,No
+Infosys,IT Services,India,466,5394,8.64,29-01-2024,Merger,Yes
+Accenture,Consulting,Ireland,167,4111,4.06,04-10-2024,Automation,No
+Alibaba,E-commerce,China,46,2841,1.62,29-04-2025,Automation,Yes
+Meta,Social Media,United States,283,9244,3.06,17-01-2025,Automation,No
+Google,Tech,United States,322,952,33.82,06-07-2025,Other,Yes
+Tencent,Tech,China,27,9718,0.28,07-06-2024,Cost Cutting,No
+Spotify,Music,Sweden,246,9065,2.71,06-01-2024,Automation,No
+Meta,Social Media,United States,269,1261,21.33,06-12-2023,Restructuring,No
+SAP,Enterprise Software,Germany,146,2294,6.36,10-05-2025,Pandemic,No
+TCS,IT Services,India,437,7887,5.54,02-03-2024,Restructuring,Yes
+Tencent,Tech,China,477,3460,13.79,14-06-2024,Restructuring,Yes
+Oracle,Enterprise Software,United States,209,2919,7.16,14-07-2024,Other,Yes
+Nokia,Telecom,Finland,85,4583,1.85,05-11-2023,Automation,Yes
+Netflix,Entertainment,United States,293,6819,4.3,15-07-2024,Pandemic,Yes
+Atlassian,Software,Australia,357,9675,3.69,15-06-2024,Merger,Yes
+Amazon,E-commerce,United States,374,3273,11.43,12-11-2024,Other,Yes
+TCS,IT Services,India,105,7718,1.36,07-05-2025,Restructuring,Yes
+Oracle,Enterprise Software,United States,384,6007,6.39,09-10-2024,Merger,Yes
+Microsoft,Tech,United States,364,3048,11.94,21-06-2025,Other,No
+SAP,Enterprise Software,Germany,192,641,29.95,05-11-2023,Other,Yes
+Alibaba,E-commerce,China,382,3858,9.9,19-12-2023,Other,Yes
+Spotify,Music,Sweden,67,3746,1.79,30-08-2024,Merger,Yes
+Google,Tech,United States,71,7759,0.92,08-09-2024,Cost Cutting,No
+Atlassian,Software,Australia,438,3349,13.08,02-11-2024,Pandemic,No
+Alibaba,E-commerce,China,401,2213,18.12,12-04-2024,Pandemic,No
+Spotify,Music,Sweden,107,7855,1.36,06-06-2025,Restructuring,Yes
+Salesforce,SaaS,United States,166,10021,1.66,09-04-2024,Cost Cutting,No
+Accenture,Consulting,Ireland,75,202,37.13,15-12-2024,Cost Cutting,Yes
+Accenture,Consulting,Ireland,106,5885,1.8,14-05-2025,Cost Cutting,Yes
+Apple,Tech,United States,477,591,80.71,19-02-2024,Pandemic,Yes
+Atlassian,Software,Australia,45,6578,0.68,02-03-2025,Pandemic,Yes
+Google,Tech,United States,285,7081,4.02,24-08-2024,Automation,No
+Netflix,Entertainment,United States,174,7916,2.2,10-03-2024,Pandemic,Yes
+Amazon,E-commerce,United States,36,6454,0.56,08-02-2024,Pandemic,No
+Alibaba,E-commerce,China,389,2690,14.46,16-05-2024,Cost Cutting,Yes
+Google,Tech,United States,449,10029,4.48,30-07-2024,Merger,No
+Infosys,IT Services,India,22,4793,0.46,22-07-2024,Restructuring,No
+Nokia,Telecom,Finland,335,9739,3.44,31-12-2024,Other,No
+SAP,Enterprise Software,Germany,321,4727,6.79,29-07-2023,Other,Yes
+Spotify,Music,Sweden,45,5990,0.75,13-09-2024,Other,No
+Oracle,Enterprise Software,United States,384,2060,18.64,06-10-2023,Merger,Yes
+Capgemini,Consulting,France,365,7294,5,19-12-2024,Restructuring,Yes
+Oracle,Enterprise Software,United States,162,1003,16.15,05-08-2024,Automation,No
+Intel,Semiconductors,United States,317,9122,3.48,19-05-2024,Other,Yes
+Google,Tech,United States,262,2975,8.81,02-10-2023,Pandemic,Yes
+Salesforce,SaaS,United States,130,1104,11.78,03-01-2025,Restructuring,Yes
+SAP,Enterprise Software,Germany,382,5090,7.5,16-02-2024,Restructuring,Yes
+Google,Tech,United States,328,6287,5.22,17-04-2025,Restructuring,Yes
+Accenture,Consulting,Ireland,202,6584,3.07,06-05-2025,Restructuring,No
+Atlassian,Software,Australia,73,888,8.22,09-04-2024,Pandemic,Yes
+Netflix,Entertainment,United States,62,8326,0.74,15-11-2023,Merger,Yes
+Spotify,Music,Sweden,178,4754,3.74,03-12-2023,Restructuring,Yes
+Spotify,Music,Sweden,243,1855,13.1,27-01-2024,Cost Cutting,Yes
+Infosys,IT Services,India,103,475,21.68,03-11-2024,Restructuring,No
+Amazon,E-commerce,United States,157,8363,1.88,20-03-2025,Other,Yes
+Intel,Semiconductors,United States,445,9278,4.8,05-10-2024,Pandemic,No
+Amazon,E-commerce,United States,58,1216,4.77,22-03-2024,Cost Cutting,No
+TCS,IT Services,India,53,9102,0.58,08-12-2023,Pandemic,No
+Capgemini,Consulting,France,346,9818,3.52,26-01-2024,Automation,Yes
+Meta,Social Media,United States,106,6716,1.58,18-12-2023,Other,Yes
+Alibaba,E-commerce,China,84,9366,0.9,24-06-2025,Pandemic,Yes
+Google,Tech,United States,332,1485,22.36,26-11-2023,Cost Cutting,No
+Infosys,IT Services,India,311,7223,4.31,26-01-2025,Merger,No
+TCS,IT Services,India,116,4746,2.44,10-05-2024,Other,Yes
+Infosys,IT Services,India,196,4788,4.09,04-02-2024,Cost Cutting,No
+Accenture,Consulting,Ireland,171,9796,1.75,10-02-2024,Merger,No
+Nokia,Telecom,Finland,242,7858,3.08,07-12-2023,Cost Cutting,No
+Alibaba,E-commerce,China,448,3984,11.24,01-08-2024,Restructuring,No
+Oracle,Enterprise Software,United States,308,8874,3.47,04-08-2023,Other,No
+Microsoft,Tech,United States,118,6894,1.71,22-04-2025,Pandemic,No
+Infosys,IT Services,India,133,6943,1.92,07-06-2024,Automation,No
+Atlassian,Software,Australia,242,3596,6.73,15-03-2024,Merger,No
+Infosys,IT Services,India,426,3281,12.98,26-04-2024,Merger,Yes
+SAP,Enterprise Software,Germany,258,1402,18.4,06-10-2023,Restructuring,Yes
+Alibaba,E-commerce,China,293,4662,6.28,28-01-2024,Other,No
+IBM,IT Services,United States,249,1317,18.91,19-06-2024,Other,No
+Netflix,Entertainment,United States,292,3684,7.93,08-11-2023,Restructuring,No
+Intel,Semiconductors,United States,20,719,2.78,07-01-2024,Cost Cutting,No
+Oracle,Enterprise Software,United States,28,8535,0.33,03-10-2024,Merger,No
+Amazon,E-commerce,United States,87,1732,5.02,03-08-2024,Pandemic,No
+Tencent,Tech,China,181,1955,9.26,25-08-2024,Cost Cutting,Yes
+Oracle,Enterprise Software,United States,427,6613,6.46,06-11-2024,Restructuring,Yes
+Amazon,E-commerce,United States,353,4842,7.29,01-09-2023,Merger,No
+Capgemini,Consulting,France,340,3280,10.37,05-06-2025,Automation,Yes
+Apple,Tech,United States,48,6738,0.71,11-03-2024,Automation,Yes
+Intel,Semiconductors,United States,418,8861,4.72,30-08-2024,Merger,No
+Amazon,E-commerce,United States,360,2293,15.7,16-04-2024,Pandemic,Yes
+Nokia,Telecom,Finland,324,4400,7.36,04-04-2025,Other,No
+Intel,Semiconductors,United States,395,5816,6.79,27-11-2024,Merger,Yes
+Meta,Social Media,United States,158,5584,2.83,08-03-2024,Other,Yes
+Alibaba,E-commerce,China,299,558,53.58,05-04-2024,Pandemic,No
+Oracle,Enterprise Software,United States,436,8847,4.93,28-02-2024,Restructuring,Yes
+Capgemini,Consulting,France,489,2201,22.22,02-07-2025,Pandemic,No
+Alibaba,E-commerce,China,315,3415,9.22,17-10-2023,Pandemic,Yes
+Microsoft,Tech,United States,480,1551,30.95,20-12-2023,Merger,Yes
+SAP,Enterprise Software,Germany,342,9007,3.8,07-05-2024,Merger,Yes
+Apple,Tech,United States,84,3647,2.3,30-04-2025,Automation,No
+IBM,IT Services,United States,439,2020,21.73,24-08-2023,Restructuring,No
+Oracle,Enterprise Software,United States,136,7102,1.91,20-08-2023,Cost Cutting,Yes
+Tencent,Tech,China,100,1779,5.62,21-07-2024,Merger,Yes
+Nokia,Telecom,Finland,247,2443,10.11,11-06-2024,Restructuring,No
+IBM,IT Services,United States,288,2894,9.95,14-05-2024,Restructuring,No
+TCS,IT Services,India,267,2484,10.75,02-11-2024,Other,Yes
+Nokia,Telecom,Finland,41,2939,1.4,12-05-2024,Other,Yes
+SAP,Enterprise Software,Germany,394,2084,18.91,24-08-2023,Other,No
+IBM,IT Services,United States,366,4508,8.12,15-08-2023,Automation,No
+TCS,IT Services,India,391,830,47.11,17-03-2024,Merger,Yes
+Salesforce,SaaS,United States,89,4778,1.86,25-12-2024,Merger,No
+Amazon,E-commerce,United States,166,2915,5.69,26-10-2024,Restructuring,Yes
+Accenture,Consulting,Ireland,260,798,32.58,17-05-2025,Other,Yes
+IBM,IT Services,United States,99,1372,7.22,17-11-2023,Other,No
+Meta,Social Media,United States,428,7625,5.61,03-04-2025,Merger,No
+Oracle,Enterprise Software,United States,22,6270,0.35,04-12-2024,Automation,Yes
+IBM,IT Services,United States,139,1765,7.88,11-03-2024,Automation,No
+SAP,Enterprise Software,Germany,67,9715,0.69,09-06-2024,Automation,Yes
+Capgemini,Consulting,France,235,3734,6.29,30-11-2024,Merger,No
+Atlassian,Software,Australia,462,8813,5.24,23-07-2025,Merger,Yes
+Amazon,E-commerce,United States,303,6049,5.01,21-11-2024,Automation,No
+Amazon,E-commerce,United States,182,6600,2.76,26-10-2024,Pandemic,Yes
+Meta,Social Media,United States,113,9063,1.25,26-08-2024,Cost Cutting,Yes
+Spotify,Music,Sweden,282,10095,2.79,09-10-2023,Restructuring,No
+Tencent,Tech,China,174,2632,6.61,21-06-2024,Other,No
+Oracle,Enterprise Software,United States,169,9712,1.74,13-09-2023,Pandemic,No
+Meta,Social Media,United States,410,5086,8.06,21-02-2024,Cost Cutting,No
+Netflix,Entertainment,United States,462,6400,7.22,29-10-2024,Merger,Yes
+Alibaba,E-commerce,China,421,6104,6.9,10-10-2024,Restructuring,Yes
+Google,Tech,United States,468,1018,45.97,11-06-2025,Pandemic,Yes
+Netflix,Entertainment,United States,349,4686,7.45,29-04-2025,Restructuring,No
+TCS,IT Services,India,139,6541,2.13,05-05-2024,Merger,Yes
+Tencent,Tech,China,17,1485,1.14,19-01-2024,Other,No
+Infosys,IT Services,India,232,1908,12.16,21-11-2024,Other,Yes
+IBM,IT Services,United States,321,9932,3.23,30-12-2024,Cost Cutting,No
+Amazon,E-commerce,United States,476,6431,7.4,16-12-2023,Other,Yes
+Alibaba,E-commerce,China,339,1099,30.85,09-08-2024,Cost Cutting,No
+Amazon,E-commerce,United States,492,5044,9.75,13-07-2025,Cost Cutting,Yes
+Nokia,Telecom,Finland,393,3866,10.17,02-10-2024,Pandemic,Yes
+Accenture,Consulting,Ireland,114,7302,1.56,29-02-2024,Other,Yes
+Atlassian,Software,Australia,296,2687,11.02,24-11-2023,Cost Cutting,No
+TCS,IT Services,India,82,9027,0.91,08-02-2024,Pandemic,No
+Apple,Tech,United States,234,10073,2.32,31-08-2023,Pandemic,Yes
+IBM,IT Services,United States,434,1187,36.56,02-09-2024,Automation,Yes
+Alibaba,E-commerce,China,418,3680,11.36,30-08-2023,Pandemic,No
+Apple,Tech,United States,32,3092,1.03,25-06-2025,Restructuring,No
+Atlassian,Software,Australia,310,9033,3.43,07-09-2024,Cost Cutting,No
+SAP,Enterprise Software,Germany,455,2327,19.55,12-03-2025,Pandemic,Yes
+Apple,Tech,United States,491,8249,5.95,30-09-2023,Merger,Yes
+Apple,Tech,United States,416,2693,15.45,19-06-2025,Pandemic,No
+Infosys,IT Services,India,120,4664,2.57,08-09-2023,Pandemic,Yes
+Microsoft,Tech,United States,343,2004,17.12,06-03-2024,Automation,No
+Infosys,IT Services,India,269,7069,3.81,30-06-2025,Other,Yes
+Accenture,Consulting,Ireland,114,5712,2,14-11-2023,Restructuring,No
+Capgemini,Consulting,France,433,5499,7.87,13-02-2024,Merger,No
+Intel,Semiconductors,United States,95,5456,1.74,06-03-2024,Automation,Yes
+Atlassian,Software,Australia,474,8022,5.91,27-09-2024,Restructuring,No
+Spotify,Music,Sweden,435,9619,4.52,12-07-2024,Pandemic,No
+Oracle,Enterprise Software,United States,211,7468,2.83,14-05-2024,Other,Yes
+Infosys,IT Services,India,493,6799,7.25,19-11-2023,Merger,Yes
+Spotify,Music,Sweden,16,8542,0.19,09-02-2025,Restructuring,No
+SAP,Enterprise Software,Germany,472,7923,5.96,11-01-2024,Automation,Yes
+IBM,IT Services,United States,81,6838,1.18,14-04-2025,Pandemic,No
+Intel,Semiconductors,United States,327,7898,4.14,30-06-2024,Pandemic,No
+Netflix,Entertainment,United States,460,1000,46,16-01-2024,Cost Cutting,Yes
+Atlassian,Software,Australia,493,3772,13.07,05-03-2025,Automation,Yes
+Netflix,Entertainment,United States,341,4003,8.52,02-03-2025,Merger,Yes
+Capgemini,Consulting,France,241,9332,2.58,28-03-2025,Pandemic,Yes
+Infosys,IT Services,India,371,4437,8.36,26-11-2023,Cost Cutting,No
+Intel,Semiconductors,United States,17,9506,0.18,19-04-2025,Other,No
+Accenture,Consulting,Ireland,158,3424,4.61,06-10-2023,Restructuring,No
+Infosys,IT Services,India,204,4452,4.58,02-12-2023,Pandemic,Yes
+SAP,Enterprise Software,Germany,474,1400,33.86,19-12-2023,Other,Yes
+Intel,Semiconductors,United States,11,3574,0.31,10-11-2023,Restructuring,No
+Meta,Social Media,United States,178,7566,2.35,08-04-2025,Pandemic,No
+Netflix,Entertainment,United States,79,5435,1.45,05-08-2023,Restructuring,No
+Microsoft,Tech,United States,388,5146,7.54,04-01-2024,Automation,No
+Infosys,IT Services,India,454,843,53.86,25-07-2024,Restructuring,Yes
+Meta,Social Media,United States,448,5192,8.63,18-10-2024,Restructuring,No
+IBM,IT Services,United States,399,3708,10.76,16-10-2023,Pandemic,No
+IBM,IT Services,United States,196,5958,3.29,23-08-2023,Pandemic,Yes
+Atlassian,Software,Australia,59,9949,0.59,16-03-2025,Other,No
+Apple,Tech,United States,202,6540,3.09,22-09-2024,Restructuring,Yes
+Netflix,Entertainment,United States,252,7169,3.52,28-10-2024,Other,No
+Google,Tech,United States,171,6611,2.59,08-08-2024,Other,No
+Accenture,Consulting,Ireland,479,2416,19.83,01-12-2024,Automation,Yes
+Apple,Tech,United States,239,927,25.78,02-03-2024,Merger,No
+Infosys,IT Services,India,112,4488,2.5,22-01-2025,Cost Cutting,Yes
+Spotify,Music,Sweden,361,3282,11,12-11-2024,Restructuring,Yes
+Salesforce,SaaS,United States,144,9763,1.47,14-06-2024,Automation,Yes
+IBM,IT Services,United States,331,5899,5.61,22-08-2024,Restructuring,No
+Accenture,Consulting,Ireland,129,1177,10.96,08-05-2024,Cost Cutting,Yes
+Netflix,Entertainment,United States,262,6800,3.85,30-10-2024,Merger,Yes
+Tencent,Tech,China,252,6093,4.14,03-08-2023,Merger,Yes
+Meta,Social Media,United States,101,9819,1.03,10-01-2024,Restructuring,Yes
+Netflix,Entertainment,United States,354,8054,4.4,15-07-2025,Cost Cutting,Yes
+Atlassian,Software,Australia,263,8877,2.96,30-07-2024,Other,Yes
+Nokia,Telecom,Finland,381,6327,6.02,07-02-2024,Restructuring,No
+Alibaba,E-commerce,China,77,3795,2.03,20-02-2025,Pandemic,Yes
+Oracle,Enterprise Software,United States,224,5590,4.01,26-06-2024,Merger,No
+Oracle,Enterprise Software,United States,363,5889,6.16,30-12-2023,Automation,Yes
+Meta,Social Media,United States,153,5750,2.66,27-04-2024,Automation,No
+Accenture,Consulting,Ireland,369,8349,4.42,03-07-2025,Automation,No
+Spotify,Music,Sweden,86,8513,1.01,24-05-2024,Cost Cutting,No
+Nokia,Telecom,Finland,198,1698,11.66,26-12-2024,Cost Cutting,Yes
+Oracle,Enterprise Software,United States,12,9581,0.13,30-10-2024,Other,No
+Nokia,Telecom,Finland,476,8184,5.82,25-04-2024,Merger,Yes
+Atlassian,Software,Australia,127,3513,3.62,18-11-2023,Cost Cutting,Yes
+Infosys,IT Services,India,14,9660,0.14,11-06-2025,Other,Yes
+Salesforce,SaaS,United States,431,5036,8.56,24-06-2025,Pandemic,No
+Infosys,IT Services,India,289,9772,2.96,23-02-2024,Other,No
+Atlassian,Software,Australia,262,5040,5.2,23-10-2024,Merger,Yes
+Amazon,E-commerce,United States,116,4414,2.63,28-12-2024,Other,Yes
+IBM,IT Services,United States,128,8628,1.48,14-04-2025,Merger,No
+Intel,Semiconductors,United States,277,7652,3.62,10-06-2025,Pandemic,Yes
+Google,Tech,United States,192,8459,2.27,02-10-2023,Pandemic,No
+Apple,Tech,United States,225,4885,4.61,13-02-2025,Pandemic,Yes
+Atlassian,Software,Australia,319,9080,3.51,28-04-2024,Restructuring,Yes
+Intel,Semiconductors,United States,105,9603,1.09,12-09-2024,Automation,No
+Accenture,Consulting,Ireland,455,8918,5.1,02-08-2023,Other,Yes
+TCS,IT Services,India,40,9742,0.41,27-07-2024,Automation,No
+Salesforce,SaaS,United States,29,4494,0.65,01-09-2023,Merger,Yes
+Google,Tech,United States,301,7693,3.91,25-05-2024,Pandemic,No
+Apple,Tech,United States,40,5109,0.78,27-04-2025,Other,Yes
+Oracle,Enterprise Software,United States,178,3906,4.56,08-05-2025,Cost Cutting,Yes
+TCS,IT Services,India,357,6895,5.18,06-08-2024,Pandemic,No
+SAP,Enterprise Software,Germany,80,5308,1.51,03-03-2025,Merger,No
+Netflix,Entertainment,United States,139,9548,1.46,14-09-2024,Automation,No
+Alibaba,E-commerce,China,155,832,18.63,28-02-2025,Restructuring,Yes
+Capgemini,Consulting,France,71,2123,3.34,08-02-2025,Pandemic,Yes
+Salesforce,SaaS,United States,261,8734,2.99,06-10-2024,Automation,No
+Capgemini,Consulting,France,257,7057,3.64,27-11-2023,Merger,No
+Intel,Semiconductors,United States,224,1655,13.53,28-01-2024,Merger,Yes
+Amazon,E-commerce,United States,31,3056,1.01,18-04-2024,Automation,No
+IBM,IT Services,United States,287,8196,3.5,11-06-2024,Automation,Yes
+Tencent,Tech,China,32,1383,2.31,24-02-2024,Pandemic,No
+Oracle,Enterprise Software,United States,345,3163,10.91,17-01-2025,Cost Cutting,No
+Meta,Social Media,United States,126,3901,3.23,10-04-2025,Pandemic,Yes
+Apple,Tech,United States,249,748,33.29,05-07-2025,Restructuring,Yes
+Google,Tech,United States,129,2171,5.94,02-07-2024,Automation,Yes
+Tencent,Tech,China,37,9741,0.38,30-10-2024,Restructuring,No
+Capgemini,Consulting,France,273,4523,6.04,05-06-2024,Restructuring,Yes
+Apple,Tech,United States,241,5928,4.07,19-12-2024,Cost Cutting,Yes
+Infosys,IT Services,India,466,6372,7.31,11-06-2024,Pandemic,Yes
+Tencent,Tech,China,273,2076,13.15,24-05-2024,Other,No
+Intel,Semiconductors,United States,218,5544,3.93,19-09-2023,Merger,No
+Apple,Tech,United States,240,8760,2.74,25-08-2023,Restructuring,No
+Infosys,IT Services,India,92,8025,1.15,30-09-2024,Restructuring,No
+Intel,Semiconductors,United States,370,8804,4.2,06-01-2024,Restructuring,Yes
+Spotify,Music,Sweden,40,9372,0.43,13-11-2024,Restructuring,Yes
+Netflix,Entertainment,United States,60,8922,0.67,18-01-2024,Merger,No
+Google,Tech,United States,274,8068,3.4,05-06-2024,Pandemic,No
+Google,Tech,United States,207,1510,13.71,10-09-2023,Other,No
+Microsoft,Tech,United States,415,8842,4.69,19-10-2024,Cost Cutting,No
+Oracle,Enterprise Software,United States,283,6397,4.42,10-11-2023,Other,Yes
+Microsoft,Tech,United States,292,8224,3.55,23-01-2025,Restructuring,No
+Microsoft,Tech,United States,384,7871,4.88,21-05-2025,Automation,Yes
+Google,Tech,United States,295,8322,3.54,27-02-2024,Merger,No
+Atlassian,Software,Australia,257,8570,3,17-07-2024,Other,No
+Accenture,Consulting,Ireland,291,7835,3.71,29-08-2024,Cost Cutting,Yes
+Infosys,IT Services,India,428,9239,4.63,07-05-2025,Automation,No
+Alibaba,E-commerce,China,36,5423,0.66,19-06-2024,Other,Yes
+Capgemini,Consulting,France,440,6910,6.37,20-01-2024,Automation,Yes
+Infosys,IT Services,India,204,1745,11.69,24-08-2023,Automation,No
+Intel,Semiconductors,United States,147,9991,1.47,03-12-2024,Restructuring,No
+Meta,Social Media,United States,32,1769,1.81,30-04-2024,Pandemic,Yes
+Alibaba,E-commerce,China,426,2348,18.14,13-07-2024,Restructuring,Yes
+Capgemini,Consulting,France,375,6585,5.69,09-07-2025,Other,No
+Spotify,Music,Sweden,271,1331,20.36,30-09-2024,Automation,Yes
+Tencent,Tech,China,114,6821,1.67,19-09-2024,Cost Cutting,No
+Nokia,Telecom,Finland,203,9608,2.11,30-01-2024,Restructuring,Yes
+Apple,Tech,United States,109,8629,1.26,25-11-2024,Cost Cutting,Yes
+IBM,IT Services,United States,371,4436,8.36,19-09-2023,Restructuring,No
+Oracle,Enterprise Software,United States,406,2465,16.47,06-09-2024,Pandemic,No
+Alibaba,E-commerce,China,129,3907,3.3,02-07-2025,Pandemic,No
+Netflix,Entertainment,United States,275,9358,2.94,10-01-2024,Restructuring,No
+Intel,Semiconductors,United States,36,3199,1.13,25-09-2023,Restructuring,Yes
+SAP,Enterprise Software,Germany,170,1329,12.79,01-09-2023,Other,Yes
+IBM,IT Services,United States,353,9135,3.86,23-10-2024,Pandemic,Yes
+Oracle,Enterprise Software,United States,145,7308,1.98,25-11-2023,Cost Cutting,Yes
+Accenture,Consulting,Ireland,61,1203,5.07,30-10-2023,Pandemic,Yes
+Accenture,Consulting,Ireland,235,5422,4.33,01-03-2024,Restructuring,No
+Spotify,Music,Sweden,186,6035,3.08,05-06-2025,Cost Cutting,Yes
+Capgemini,Consulting,France,383,8236,4.65,29-04-2025,Restructuring,No
+Tencent,Tech,China,269,4424,6.08,22-04-2024,Merger,Yes
+Infosys,IT Services,India,38,8552,0.44,24-01-2025,Restructuring,Yes
+Salesforce,SaaS,United States,92,8204,1.12,20-12-2023,Pandemic,No
+Intel,Semiconductors,United States,156,1524,10.24,18-01-2024,Automation,Yes
+Google,Tech,United States,288,9786,2.94,18-09-2023,Pandemic,Yes
+Alibaba,E-commerce,China,192,7880,2.44,08-04-2024,Pandemic,Yes
+Intel,Semiconductors,United States,171,9256,1.85,02-12-2023,Other,No
+Google,Tech,United States,233,5678,4.1,11-08-2024,Cost Cutting,Yes
+Intel,Semiconductors,United States,49,1183,4.14,07-08-2024,Other,Yes
+Netflix,Entertainment,United States,288,461,62.47,23-02-2025,Other,No
+Oracle,Enterprise Software,United States,492,1778,27.67,29-10-2023,Other,No
+Atlassian,Software,Australia,229,7970,2.87,19-02-2024,Merger,No
+Atlassian,Software,Australia,145,5263,2.76,29-04-2024,Cost Cutting,No
+Microsoft,Tech,United States,326,4864,6.7,14-06-2025,Restructuring,No
+Apple,Tech,United States,55,9494,0.58,25-10-2024,Automation,No
+Infosys,IT Services,India,468,9260,5.05,09-05-2024,Pandemic,Yes
+Netflix,Entertainment,United States,376,1545,24.34,24-01-2025,Automation,Yes
+Accenture,Consulting,Ireland,227,739,30.72,09-05-2025,Automation,Yes
+Apple,Tech,United States,405,3988,10.16,31-05-2025,Restructuring,Yes
+SAP,Enterprise Software,Germany,276,4859,5.68,29-01-2025,Restructuring,Yes
+Salesforce,SaaS,United States,97,1209,8.02,05-10-2024,Automation,Yes
+SAP,Enterprise Software,Germany,351,2016,17.41,04-08-2024,Pandemic,No
+Atlassian,Software,Australia,126,5577,2.26,11-12-2024,Restructuring,Yes
+Spotify,Music,Sweden,51,5527,0.92,05-04-2025,Pandemic,Yes
+SAP,Enterprise Software,Germany,385,8811,4.37,10-03-2024,Restructuring,Yes
+TCS,IT Services,India,186,9566,1.94,17-08-2023,Pandemic,Yes
+Meta,Social Media,United States,431,3065,14.06,31-01-2025,Other,No
+Amazon,E-commerce,United States,180,2481,7.26,26-12-2024,Pandemic,Yes
+Infosys,IT Services,India,460,4453,10.33,14-12-2023,Merger,No
+Meta,Social Media,United States,145,3819,3.8,15-02-2024,Restructuring,Yes
+TCS,IT Services,India,347,4681,7.41,31-07-2023,Other,No
+Infosys,IT Services,India,65,6604,0.98,31-10-2023,Other,No
+Salesforce,SaaS,United States,148,3484,4.25,31-07-2024,Merger,Yes
+TCS,IT Services,India,226,1293,17.48,11-03-2025,Automation,No
+Accenture,Consulting,Ireland,143,6428,2.22,11-02-2024,Pandemic,No
+IBM,IT Services,United States,273,2028,13.46,18-03-2024,Pandemic,No
+Alibaba,E-commerce,China,173,8573,2.02,01-04-2025,Cost Cutting,Yes
+Meta,Social Media,United States,54,4618,1.17,29-07-2023,Restructuring,Yes
+Capgemini,Consulting,France,216,8153,2.65,06-04-2025,Automation,Yes
+Oracle,Enterprise Software,United States,305,4039,7.55,31-12-2024,Automation,Yes
+Capgemini,Consulting,France,214,9525,2.25,25-04-2024,Restructuring,Yes
+Tencent,Tech,China,240,885,27.12,04-10-2023,Cost Cutting,No
+Google,Tech,United States,170,8658,1.96,25-12-2023,Cost Cutting,Yes
+Capgemini,Consulting,France,153,9076,1.69,31-10-2024,Restructuring,No
+SAP,Enterprise Software,Germany,408,7070,5.77,27-10-2024,Pandemic,No
+Spotify,Music,Sweden,407,6110,6.66,08-08-2024,Pandemic,Yes
+Alibaba,E-commerce,China,10,4403,0.23,07-09-2024,Other,Yes
+Tencent,Tech,China,334,8618,3.88,30-07-2023,Automation,Yes
+Alibaba,E-commerce,China,205,7696,2.66,12-05-2025,Restructuring,Yes
+Salesforce,SaaS,United States,235,535,43.93,15-04-2024,Pandemic,Yes
+Salesforce,SaaS,United States,371,6925,5.36,14-09-2023,Cost Cutting,No
+Infosys,IT Services,India,291,7513,3.87,31-07-2023,Restructuring,No
+Capgemini,Consulting,France,438,4226,10.36,09-10-2023,Automation,No
+Atlassian,Software,Australia,292,1561,18.71,06-06-2024,Pandemic,No
+TCS,IT Services,India,158,7977,1.98,30-01-2025,Pandemic,Yes
+Alibaba,E-commerce,China,117,5127,2.28,21-10-2023,Cost Cutting,No
+Nokia,Telecom,Finland,428,1122,38.15,02-10-2023,Pandemic,No
+Amazon,E-commerce,United States,232,6451,3.6,06-10-2024,Pandemic,Yes
+SAP,Enterprise Software,Germany,438,4910,8.92,09-10-2023,Cost Cutting,No
+Spotify,Music,Sweden,198,6301,3.14,10-11-2023,Cost Cutting,No
+Intel,Semiconductors,United States,88,8118,1.08,27-05-2024,Automation,No
+Salesforce,SaaS,United States,158,8291,1.91,23-05-2025,Other,Yes
+Atlassian,Software,Australia,376,1750,21.49,26-12-2024,Restructuring,Yes
+Tencent,Tech,China,282,4577,6.16,06-03-2024,Pandemic,No
+Intel,Semiconductors,United States,171,2880,5.94,18-11-2023,Pandemic,No
+Netflix,Entertainment,United States,225,9660,2.33,02-02-2024,Cost Cutting,Yes
+Accenture,Consulting,Ireland,256,6919,3.7,24-02-2025,Other,Yes
+Amazon,E-commerce,United States,253,2385,10.61,10-05-2025,Other,No
+Salesforce,SaaS,United States,347,10136,3.42,20-04-2024,Automation,Yes
+SAP,Enterprise Software,Germany,449,2417,18.58,31-10-2023,Pandemic,No
+Intel,Semiconductors,United States,225,9670,2.33,08-05-2024,Automation,Yes
+SAP,Enterprise Software,Germany,117,6150,1.9,16-05-2024,Merger,Yes
+Nokia,Telecom,Finland,78,6940,1.12,01-03-2025,Cost Cutting,No
+Spotify,Music,Sweden,112,8978,1.25,02-03-2024,Other,No
+Meta,Social Media,United States,248,5438,4.56,11-08-2023,Pandemic,No
+Atlassian,Software,Australia,455,1426,31.91,21-05-2024,Automation,No
+Alibaba,E-commerce,China,284,9691,2.93,13-10-2024,Restructuring,No
+Salesforce,SaaS,United States,184,937,19.64,13-12-2023,Automation,No
+Accenture,Consulting,Ireland,50,3802,1.32,19-11-2023,Automation,Yes
+Alibaba,E-commerce,China,359,8477,4.23,24-08-2024,Merger,No
+Spotify,Music,Sweden,91,897,10.14,18-11-2023,Pandemic,No
+Alibaba,E-commerce,China,35,909,3.85,24-12-2024,Other,Yes
+Capgemini,Consulting,France,270,2648,10.2,01-12-2023,Other,Yes
+Oracle,Enterprise Software,United States,407,10196,3.99,11-03-2024,Pandemic,No
+Nokia,Telecom,Finland,481,7995,6.02,14-12-2024,Cost Cutting,No
+Microsoft,Tech,United States,127,7710,1.65,25-12-2024,Automation,Yes
+Nokia,Telecom,Finland,25,4820,0.52,26-07-2023,Restructuring,Yes
+Salesforce,SaaS,United States,172,6809,2.53,26-04-2025,Merger,Yes
+Nokia,Telecom,Finland,123,7053,1.74,15-03-2024,Automation,Yes
+Alibaba,E-commerce,China,210,1673,12.55,22-12-2024,Restructuring,No
+Netflix,Entertainment,United States,210,4198,5,18-02-2024,Cost Cutting,No
+IBM,IT Services,United States,478,4672,10.23,14-09-2023,Merger,No
+Amazon,E-commerce,United States,217,7303,2.97,01-02-2024,Pandemic,No
+Netflix,Entertainment,United States,348,3788,9.19,09-04-2024,Pandemic,Yes
+Spotify,Music,Sweden,290,5337,5.43,07-12-2024,Automation,Yes
+Alibaba,E-commerce,China,265,3916,6.77,08-01-2025,Merger,No
+Capgemini,Consulting,France,143,705,20.28,28-09-2023,Restructuring,Yes
+Salesforce,SaaS,United States,437,3205,13.63,21-08-2023,Cost Cutting,No
+Capgemini,Consulting,France,407,10345,3.93,25-12-2024,Other,Yes
+Salesforce,SaaS,United States,283,7362,3.84,17-06-2024,Other,No
+Apple,Tech,United States,151,5980,2.53,02-12-2023,Cost Cutting,No
+Salesforce,SaaS,United States,304,10101,3.01,21-06-2024,Pandemic,Yes
+TCS,IT Services,India,188,1158,16.23,15-03-2024,Pandemic,Yes
+Netflix,Entertainment,United States,388,7693,5.04,07-01-2025,Cost Cutting,Yes
+Microsoft,Tech,United States,116,1934,6,13-05-2025,Pandemic,Yes
+Meta,Social Media,United States,142,1589,8.94,29-08-2024,Cost Cutting,No
+Alibaba,E-commerce,China,429,5586,7.68,13-07-2024,Automation,No
+Infosys,IT Services,India,244,5084,4.8,26-03-2024,Other,Yes
+Apple,Tech,United States,253,5525,4.58,19-08-2023,Restructuring,No
+Infosys,IT Services,India,59,6202,0.95,05-09-2023,Other,Yes
+Accenture,Consulting,Ireland,21,5732,0.37,21-07-2025,Merger,No
+Microsoft,Tech,United States,277,2656,10.43,08-06-2025,Automation,No
+Google,Tech,United States,479,8234,5.82,18-02-2025,Merger,Yes
+Google,Tech,United States,164,5993,2.74,17-12-2024,Cost Cutting,Yes
+Oracle,Enterprise Software,United States,175,333,52.55,04-03-2025,Restructuring,No
+IBM,IT Services,United States,310,9145,3.39,05-04-2024,Automation,Yes
+Oracle,Enterprise Software,United States,191,3431,5.57,09-01-2024,Other,Yes
+Salesforce,SaaS,United States,115,1464,7.86,08-01-2025,Pandemic,Yes
+Spotify,Music,Sweden,191,3830,4.99,30-04-2025,Merger,Yes
+Amazon,E-commerce,United States,480,5442,8.82,18-02-2025,Merger,Yes
+Spotify,Music,Sweden,448,6475,6.92,22-06-2025,Pandemic,No
+Meta,Social Media,United States,272,7084,3.84,02-02-2024,Automation,No
+Microsoft,Tech,United States,131,6005,2.18,05-04-2024,Pandemic,No
+Spotify,Music,Sweden,271,7983,3.39,03-10-2023,Merger,No
+Microsoft,Tech,United States,53,855,6.2,13-07-2024,Pandemic,No
+Alibaba,E-commerce,China,404,3580,11.28,12-05-2024,Merger,Yes
+Amazon,E-commerce,United States,164,10107,1.62,15-09-2023,Other,Yes
+Spotify,Music,Sweden,271,6779,4,23-01-2024,Automation,Yes
+Accenture,Consulting,Ireland,447,6793,6.58,25-11-2024,Restructuring,Yes
+Spotify,Music,Sweden,256,1602,15.98,12-07-2025,Automation,Yes
+TCS,IT Services,India,90,6256,1.44,05-03-2024,Pandemic,No
+Spotify,Music,Sweden,412,2499,16.49,06-07-2024,Pandemic,Yes
+Oracle,Enterprise Software,United States,123,4025,3.06,30-07-2023,Automation,No
+Oracle,Enterprise Software,United States,397,9683,4.1,28-05-2025,Restructuring,No
+Google,Tech,United States,209,524,39.89,29-02-2024,Merger,No
+Netflix,Entertainment,United States,141,5487,2.57,18-09-2023,Pandemic,Yes
+Infosys,IT Services,India,25,4105,0.61,29-07-2023,Pandemic,No
+Amazon,E-commerce,United States,384,9245,4.15,16-09-2024,Automation,Yes
+Apple,Tech,United States,308,3885,7.93,02-05-2025,Merger,Yes
+Alibaba,E-commerce,China,78,8491,0.92,18-01-2024,Merger,No
+Capgemini,Consulting,France,184,7191,2.56,26-10-2023,Pandemic,No
+Atlassian,Software,Australia,236,8740,2.7,25-07-2023,Merger,No
+Tencent,Tech,China,481,2569,18.72,11-09-2024,Other,No
+SAP,Enterprise Software,Germany,160,800,20,25-11-2024,Automation,Yes
+Alibaba,E-commerce,China,271,1095,24.75,21-01-2024,Other,Yes
+Nokia,Telecom,Finland,139,3643,3.82,04-10-2023,Restructuring,Yes
+Capgemini,Consulting,France,298,6270,4.75,03-11-2024,Other,No
+Google,Tech,United States,216,9819,2.2,24-09-2023,Cost Cutting,Yes
+IBM,IT Services,United States,254,3565,7.12,30-07-2024,Other,Yes
+Netflix,Entertainment,United States,133,5539,2.4,16-02-2024,Restructuring,Yes
+Google,Tech,United States,370,4882,7.58,08-11-2024,Automation,Yes
+Amazon,E-commerce,United States,224,6607,3.39,01-07-2025,Other,Yes
+Intel,Semiconductors,United States,378,1516,24.93,11-08-2024,Restructuring,No
+Capgemini,Consulting,France,443,9892,4.48,15-05-2025,Cost Cutting,Yes
+Capgemini,Consulting,France,49,8389,0.58,13-11-2024,Restructuring,Yes
+Netflix,Entertainment,United States,226,6094,3.71,17-04-2024,Pandemic,Yes
+Infosys,IT Services,India,114,2070,5.51,03-03-2024,Automation,No
+Google,Tech,United States,329,2936,11.21,28-04-2024,Merger,No
+Oracle,Enterprise Software,United States,101,5538,1.82,04-06-2024,Pandemic,Yes
+Meta,Social Media,United States,302,1370,22.04,17-03-2024,Pandemic,Yes
+Salesforce,SaaS,United States,32,877,3.65,06-07-2025,Other,Yes
+Meta,Social Media,United States,286,3592,7.96,28-07-2023,Other,No
+SAP,Enterprise Software,Germany,339,5835,5.81,11-09-2024,Other,Yes
+Amazon,E-commerce,United States,450,6170,7.29,24-08-2024,Cost Cutting,Yes
+Tencent,Tech,China,406,7472,5.43,11-10-2023,Restructuring,No
+Nokia,Telecom,Finland,497,5874,8.46,24-10-2023,Automation,Yes
+Amazon,E-commerce,United States,24,5937,0.4,26-01-2025,Other,No
+IBM,IT Services,United States,287,915,31.37,16-10-2024,Cost Cutting,No
+Google,Tech,United States,471,8199,5.74,20-08-2024,Cost Cutting,Yes
+Salesforce,SaaS,United States,266,4429,6.01,28-06-2024,Restructuring,Yes
+Google,Tech,United States,463,6575,7.04,09-03-2024,Automation,No
+Spotify,Music,Sweden,283,9084,3.12,18-07-2024,Pandemic,No
+SAP,Enterprise Software,Germany,219,3027,7.23,13-11-2024,Automation,No
+Spotify,Music,Sweden,218,1924,11.33,25-05-2025,Cost Cutting,No
+Meta,Social Media,United States,288,1081,26.64,21-03-2024,Cost Cutting,Yes
+Nokia,Telecom,Finland,329,4013,8.2,08-12-2024,Merger,No
+Alibaba,E-commerce,China,279,6652,4.19,13-06-2025,Restructuring,Yes
+IBM,IT Services,United States,62,5740,1.08,22-10-2023,Merger,No
+Capgemini,Consulting,France,495,7717,6.41,29-03-2024,Cost Cutting,No
+Google,Tech,United States,241,7199,3.35,12-09-2023,Pandemic,Yes
+Netflix,Entertainment,United States,258,6121,4.21,30-10-2023,Cost Cutting,Yes
+Microsoft,Tech,United States,181,8698,2.08,05-07-2025,Other,No
+Amazon,E-commerce,United States,468,6052,7.73,04-01-2024,Automation,No
+Capgemini,Consulting,France,111,3885,2.86,11-02-2024,Automation,No
+Spotify,Music,Sweden,253,5267,4.8,29-05-2025,Pandemic,Yes
+Spotify,Music,Sweden,261,6478,4.03,15-05-2024,Other,Yes
+Intel,Semiconductors,United States,383,8182,4.68,08-08-2024,Pandemic,Yes
+Atlassian,Software,Australia,189,2776,6.81,06-10-2023,Merger,Yes
+Google,Tech,United States,58,4262,1.36,29-03-2025,Other,Yes
+Salesforce,SaaS,United States,242,9111,2.66,26-06-2024,Pandemic,No
+Infosys,IT Services,India,357,5741,6.22,24-03-2024,Cost Cutting,No
+Nokia,Telecom,Finland,289,4974,5.81,01-02-2024,Restructuring,No
+Infosys,IT Services,India,11,4007,0.27,23-09-2024,Other,No
+Salesforce,SaaS,United States,52,7312,0.71,28-12-2024,Automation,No
+Intel,Semiconductors,United States,163,3006,5.42,06-04-2025,Automation,No
+Nokia,Telecom,Finland,185,7212,2.57,06-04-2025,Cost Cutting,Yes
+Nokia,Telecom,Finland,69,4793,1.44,17-05-2024,Restructuring,No
+Infosys,IT Services,India,19,2221,0.86,26-01-2024,Other,No
+Infosys,IT Services,India,95,9167,1.04,03-01-2024,Pandemic,No
+IBM,IT Services,United States,249,3935,6.33,27-01-2024,Merger,Yes
+IBM,IT Services,United States,386,4513,8.55,17-02-2024,Restructuring,Yes
+Microsoft,Tech,United States,420,2305,18.22,08-04-2024,Cost Cutting,No
+IBM,IT Services,United States,358,1320,27.12,02-04-2025,Pandemic,Yes
+Capgemini,Consulting,France,335,8470,3.96,23-05-2024,Pandemic,Yes
+Microsoft,Tech,United States,487,9919,4.91,03-05-2024,Pandemic,Yes
+Nokia,Telecom,Finland,51,5628,0.91,22-12-2024,Other,Yes
+Infosys,IT Services,India,158,5443,2.9,06-06-2024,Restructuring,No
+Accenture,Consulting,Ireland,354,9218,3.84,23-01-2025,Pandemic,Yes
+Apple,Tech,United States,84,4274,1.97,30-05-2025,Restructuring,Yes
+Amazon,E-commerce,United States,383,5877,6.52,19-05-2024,Other,No
+Apple,Tech,United States,429,612,70.1,06-03-2024,Cost Cutting,No
+Apple,Tech,United States,351,9087,3.86,05-06-2025,Merger,Yes
+Intel,Semiconductors,United States,108,4395,2.46,19-09-2024,Restructuring,No
+Netflix,Entertainment,United States,471,7345,6.41,17-06-2024,Other,No
+TCS,IT Services,India,234,8199,2.85,16-06-2025,Cost Cutting,Yes
+Capgemini,Consulting,France,264,7681,3.44,29-01-2024,Restructuring,Yes
+Atlassian,Software,Australia,497,8935,5.56,13-04-2024,Cost Cutting,Yes
+Accenture,Consulting,Ireland,118,3863,3.05,19-04-2024,Merger,No
+Atlassian,Software,Australia,167,5784,2.89,10-06-2024,Automation,No
+Apple,Tech,United States,183,521,35.12,06-11-2024,Merger,Yes
+Apple,Tech,United States,59,6552,0.9,07-04-2025,Other,No
+TCS,IT Services,India,379,8895,4.26,03-09-2023,Automation,No
+Google,Tech,United States,229,8614,2.66,02-05-2025,Automation,No
+Salesforce,SaaS,United States,357,1393,25.63,02-06-2025,Pandemic,Yes
+SAP,Enterprise Software,Germany,462,6886,6.71,29-03-2025,Restructuring,Yes
+Google,Tech,United States,480,3368,14.25,25-08-2023,Pandemic,No
+Google,Tech,United States,46,1421,3.24,22-11-2024,Cost Cutting,No
+Infosys,IT Services,India,395,5461,7.23,03-07-2024,Other,No
+IBM,IT Services,United States,26,9849,0.26,16-02-2024,Other,Yes
+Apple,Tech,United States,155,4353,3.56,11-05-2024,Cost Cutting,Yes
+Amazon,E-commerce,United States,109,747,14.59,08-04-2025,Cost Cutting,Yes
+Nokia,Telecom,Finland,131,931,14.07,11-02-2025,Pandemic,No
+Microsoft,Tech,United States,401,7373,5.44,01-05-2025,Merger,No
+Capgemini,Consulting,France,114,3710,3.07,02-01-2025,Other,No
+Nokia,Telecom,Finland,465,5308,8.76,08-02-2025,Pandemic,No
+Atlassian,Software,Australia,338,6700,5.04,10-12-2024,Pandemic,Yes
+Spotify,Music,Sweden,395,7140,5.53,27-12-2023,Merger,Yes
+Amazon,E-commerce,United States,306,7635,4.01,08-07-2025,Merger,No
+Atlassian,Software,Australia,466,5189,8.98,21-09-2024,Merger,Yes
+IBM,IT Services,United States,404,3261,12.39,17-06-2024,Restructuring,No
+Microsoft,Tech,United States,198,6098,3.25,14-12-2024,Pandemic,No
+Netflix,Entertainment,United States,365,4924,7.41,18-12-2024,Restructuring,No
+Accenture,Consulting,Ireland,221,6666,3.32,24-01-2024,Automation,No
+Oracle,Enterprise Software,United States,202,4576,4.41,10-03-2024,Automation,Yes
+Accenture,Consulting,Ireland,202,8773,2.3,25-09-2024,Pandemic,No
+Intel,Semiconductors,United States,274,5292,5.18,10-09-2023,Cost Cutting,No
+IBM,IT Services,United States,438,2815,15.56,28-04-2025,Merger,Yes
+Oracle,Enterprise Software,United States,82,7051,1.16,16-04-2024,Restructuring,Yes
+Tencent,Tech,China,41,3248,1.26,30-12-2023,Automation,No
+Microsoft,Tech,United States,292,2779,10.51,06-12-2023,Pandemic,No
+Netflix,Entertainment,United States,321,2803,11.45,12-10-2023,Cost Cutting,Yes
+Spotify,Music,Sweden,367,8658,4.24,07-06-2024,Pandemic,Yes
+Infosys,IT Services,India,314,457,68.71,26-04-2024,Cost Cutting,No
+Microsoft,Tech,United States,191,2086,9.16,15-04-2025,Pandemic,Yes
+Amazon,E-commerce,United States,322,1151,27.98,24-01-2025,Merger,No
+Accenture,Consulting,Ireland,135,3458,3.9,21-05-2025,Merger,No
+Accenture,Consulting,Ireland,12,1674,0.72,18-05-2025,Cost Cutting,Yes
+Meta,Social Media,United States,435,5955,7.3,15-02-2025,Pandemic,No
+Atlassian,Software,Australia,464,5753,8.07,22-12-2023,Merger,Yes
+Tencent,Tech,China,10,5511,0.18,28-02-2025,Pandemic,Yes
+Oracle,Enterprise Software,United States,403,5955,6.77,09-11-2023,Pandemic,No
+Spotify,Music,Sweden,439,5909,7.43,01-10-2023,Merger,No
+Nokia,Telecom,Finland,80,8490,0.94,03-11-2024,Other,Yes
+TCS,IT Services,India,215,1683,12.77,15-05-2024,Automation,No
+Tencent,Tech,China,43,241,17.84,31-01-2024,Automation,No
+Netflix,Entertainment,United States,83,6132,1.35,15-01-2025,Pandemic,Yes
+Tencent,Tech,China,483,9373,5.15,19-07-2025,Automation,No
+Netflix,Entertainment,United States,179,5112,3.5,14-10-2024,Restructuring,Yes
+Netflix,Entertainment,United States,386,1282,30.11,24-05-2025,Merger,No
+Google,Tech,United States,301,5049,5.96,17-11-2023,Automation,No
+Infosys,IT Services,India,36,7802,0.46,25-12-2023,Other,No
+Amazon,E-commerce,United States,294,6594,4.46,25-04-2024,Automation,Yes
+Apple,Tech,United States,22,3282,0.67,11-04-2024,Pandemic,No
+Microsoft,Tech,United States,286,647,44.2,04-07-2024,Cost Cutting,Yes
+Capgemini,Consulting,France,81,1641,4.94,01-01-2024,Automation,Yes
+IBM,IT Services,United States,86,5032,1.71,02-12-2023,Cost Cutting,No
+Meta,Social Media,United States,125,490,25.51,29-08-2023,Merger,Yes
+Amazon,E-commerce,United States,197,1679,11.73,11-08-2024,Cost Cutting,Yes
+Atlassian,Software,Australia,393,3653,10.76,05-05-2025,Automation,Yes
+Salesforce,SaaS,United States,112,5080,2.2,10-08-2023,Other,No
+IBM,IT Services,United States,182,6709,2.71,16-07-2025,Restructuring,Yes
+Amazon,E-commerce,United States,478,4984,9.59,31-01-2025,Other,No
+Meta,Social Media,United States,449,6928,6.48,21-03-2025,Other,Yes
+Spotify,Music,Sweden,262,8727,3,26-05-2025,Restructuring,Yes
+Meta,Social Media,United States,455,7363,6.18,01-01-2024,Merger,No
+Oracle,Enterprise Software,United States,149,6268,2.38,23-02-2024,Automation,No
+Amazon,E-commerce,United States,127,2749,4.62,03-04-2024,Merger,No
+Atlassian,Software,Australia,192,2535,7.57,04-10-2024,Pandemic,No
+Apple,Tech,United States,470,8636,5.44,08-01-2024,Pandemic,Yes
+TCS,IT Services,India,252,3853,6.54,15-05-2025,Cost Cutting,Yes
+Google,Tech,United States,281,4375,6.42,21-10-2023,Other,Yes
+Salesforce,SaaS,United States,260,6696,3.88,25-04-2025,Merger,Yes
+Alibaba,E-commerce,China,37,9798,0.38,25-11-2024,Restructuring,Yes
+Intel,Semiconductors,United States,228,5448,4.19,16-07-2025,Merger,No
+Infosys,IT Services,India,341,3734,9.13,18-09-2023,Cost Cutting,No
+TCS,IT Services,India,357,2925,12.21,26-01-2024,Automation,Yes
+TCS,IT Services,India,133,5716,2.33,08-10-2023,Other,Yes
+Tencent,Tech,China,243,1382,17.58,13-10-2024,Other,No
+Accenture,Consulting,Ireland,332,8318,3.99,13-04-2025,Merger,Yes
+TCS,IT Services,India,362,5662,6.39,11-01-2025,Cost Cutting,Yes
+Nokia,Telecom,Finland,482,2277,21.17,11-11-2024,Pandemic,No
+Oracle,Enterprise Software,United States,357,9117,3.92,09-02-2024,Restructuring,No
+Amazon,E-commerce,United States,51,5036,1.01,10-05-2024,Automation,Yes
+Google,Tech,United States,388,4206,9.22,07-10-2024,Merger,Yes
+Alibaba,E-commerce,China,373,3415,10.92,11-09-2024,Merger,No
+SAP,Enterprise Software,Germany,284,9220,3.08,21-03-2025,Restructuring,Yes
+Accenture,Consulting,Ireland,74,7909,0.94,03-09-2023,Pandemic,No
+TCS,IT Services,India,471,10317,4.57,06-08-2024,Merger,Yes
+Tencent,Tech,China,90,8807,1.02,20-09-2024,Restructuring,No
+Atlassian,Software,Australia,382,4616,8.28,26-09-2023,Other,Yes
+Salesforce,SaaS,United States,398,6909,5.76,19-03-2025,Other,Yes
+Netflix,Entertainment,United States,279,8452,3.3,08-06-2024,Restructuring,No
+Oracle,Enterprise Software,United States,157,3174,4.95,28-10-2024,Automation,No
+SAP,Enterprise Software,Germany,204,3739,5.46,30-07-2023,Other,No
+Netflix,Entertainment,United States,308,953,32.32,20-09-2023,Restructuring,No
+Google,Tech,United States,100,2455,4.07,28-11-2023,Restructuring,Yes
+Accenture,Consulting,Ireland,113,2157,5.24,21-10-2024,Other,No
+Infosys,IT Services,India,267,6638,4.02,30-01-2024,Restructuring,Yes
+Amazon,E-commerce,United States,157,5312,2.96,23-06-2025,Merger,Yes
+Oracle,Enterprise Software,United States,456,6156,7.41,10-12-2023,Restructuring,No
+Microsoft,Tech,United States,417,7971,5.23,15-12-2024,Restructuring,Yes
+Capgemini,Consulting,France,397,1560,25.45,24-10-2023,Restructuring,Yes
+IBM,IT Services,United States,115,5533,2.08,09-01-2024,Restructuring,Yes
+Accenture,Consulting,Ireland,169,3403,4.97,25-02-2024,Pandemic,Yes
+TCS,IT Services,India,130,5416,2.4,16-09-2023,Merger,No
+Apple,Tech,United States,105,6336,1.66,23-07-2024,Restructuring,No
+IBM,IT Services,United States,325,7450,4.36,06-04-2024,Cost Cutting,No
+Microsoft,Tech,United States,367,4698,7.81,07-07-2025,Cost Cutting,Yes
+Nokia,Telecom,Finland,167,2709,6.16,07-03-2024,Cost Cutting,No
+SAP,Enterprise Software,Germany,391,3252,12.02,18-11-2024,Other,Yes
+Apple,Tech,United States,369,9090,4.06,22-11-2023,Other,Yes
+Salesforce,SaaS,United States,162,5199,3.12,22-11-2023,Automation,Yes
+Tencent,Tech,China,211,10151,2.08,15-11-2024,Pandemic,No
+Atlassian,Software,Australia,177,8682,2.04,17-03-2025,Cost Cutting,No
+Accenture,Consulting,Ireland,367,6379,5.75,01-12-2024,Pandemic,No
+Capgemini,Consulting,France,399,7889,5.06,22-12-2023,Cost Cutting,Yes
+Apple,Tech,United States,100,2897,3.45,21-02-2024,Automation,Yes
+Meta,Social Media,United States,153,9636,1.59,07-12-2023,Merger,Yes
+Netflix,Entertainment,United States,483,10472,4.61,16-04-2025,Pandemic,No
+IBM,IT Services,United States,458,4734,9.67,27-05-2025,Merger,Yes
+IBM,IT Services,United States,247,5665,4.36,23-01-2024,Automation,Yes
+Atlassian,Software,Australia,362,6119,5.92,16-10-2024,Pandemic,No
+Alibaba,E-commerce,China,448,8668,5.17,14-09-2024,Merger,Yes
+Spotify,Music,Sweden,465,8388,5.54,25-10-2024,Automation,Yes
+Alibaba,E-commerce,China,395,8419,4.69,23-06-2024,Restructuring,No
+Spotify,Music,Sweden,417,9200,4.53,02-08-2024,Pandemic,No
+Spotify,Music,Sweden,154,7228,2.13,19-08-2023,Merger,Yes
+Oracle,Enterprise Software,United States,22,9413,0.23,25-05-2025,Automation,No
+Netflix,Entertainment,United States,382,1315,29.05,22-07-2025,Restructuring,No
+Apple,Tech,United States,402,8500,4.73,13-03-2024,Pandemic,No
+Microsoft,Tech,United States,324,2038,15.9,05-05-2024,Restructuring,No
+Atlassian,Software,Australia,65,6391,1.02,13-10-2024,Cost Cutting,Yes
+TCS,IT Services,India,390,5702,6.84,29-08-2023,Pandemic,Yes
+Atlassian,Software,Australia,234,1941,12.06,09-04-2025,Automation,No
+Infosys,IT Services,India,27,6261,0.43,10-01-2024,Automation,Yes
+Nokia,Telecom,Finland,44,3128,1.41,21-05-2025,Pandemic,Yes
+Amazon,E-commerce,United States,159,4378,3.63,08-09-2023,Cost Cutting,No
+Microsoft,Tech,United States,163,8896,1.83,27-12-2023,Pandemic,Yes
+Oracle,Enterprise Software,United States,143,3410,4.19,23-10-2024,Merger,No
+Spotify,Music,Sweden,344,1335,25.77,07-07-2025,Automation,No
+Netflix,Entertainment,United States,225,2206,10.2,08-10-2023,Other,No
+IBM,IT Services,United States,396,7196,5.5,11-11-2024,Restructuring,No
+Google,Tech,United States,289,3799,7.61,24-03-2025,Automation,Yes
+Oracle,Enterprise Software,United States,34,8349,0.41,03-03-2024,Cost Cutting,Yes
+Infosys,IT Services,India,34,836,4.07,24-11-2024,Other,Yes
+Alibaba,E-commerce,China,113,5536,2.04,29-10-2024,Pandemic,No
+Capgemini,Consulting,France,239,8150,2.93,31-07-2024,Automation,No
+Netflix,Entertainment,United States,296,5018,5.9,08-10-2023,Merger,No
+Alibaba,E-commerce,China,165,6191,2.67,28-09-2023,Other,Yes
+Oracle,Enterprise Software,United States,480,6325,7.59,07-01-2025,Cost Cutting,No
+Microsoft,Tech,United States,416,6148,6.77,18-04-2025,Cost Cutting,No
+Netflix,Entertainment,United States,361,2480,14.56,05-02-2025,Other,No
+Capgemini,Consulting,France,60,8467,0.71,04-06-2024,Restructuring,No
+Meta,Social Media,United States,380,8910,4.26,27-02-2024,Automation,Yes
+Oracle,Enterprise Software,United States,370,8609,4.3,29-09-2023,Pandemic,Yes
+Alibaba,E-commerce,China,49,5425,0.9,30-05-2024,Cost Cutting,No
+Infosys,IT Services,India,318,1655,19.21,05-09-2024,Merger,Yes
+Netflix,Entertainment,United States,69,270,25.56,07-07-2025,Merger,No
+Capgemini,Consulting,France,480,4344,11.05,08-05-2024,Pandemic,No
+Intel,Semiconductors,United States,88,9856,0.89,15-06-2025,Merger,No
+Apple,Tech,United States,289,7134,4.05,30-03-2025,Restructuring,Yes
+Netflix,Entertainment,United States,263,6864,3.83,23-02-2025,Pandemic,No
+Amazon,E-commerce,United States,493,3433,14.36,05-08-2024,Merger,No
+Google,Tech,United States,452,8168,5.53,21-04-2024,Restructuring,Yes
+SAP,Enterprise Software,Germany,426,6137,6.94,08-12-2024,Merger,Yes
+Amazon,E-commerce,United States,304,9664,3.15,08-11-2023,Automation,No
+Apple,Tech,United States,12,6030,0.2,30-11-2023,Pandemic,Yes
+Tencent,Tech,China,96,5681,1.69,12-08-2024,Merger,No
+Alibaba,E-commerce,China,361,5005,7.21,13-05-2024,Merger,Yes
+Apple,Tech,United States,430,6934,6.2,05-08-2024,Restructuring,No
+Oracle,Enterprise Software,United States,371,4922,7.54,22-01-2024,Automation,No
+Capgemini,Consulting,France,64,2787,2.3,14-03-2025,Automation,No
+Atlassian,Software,Australia,65,3858,1.68,19-03-2024,Restructuring,No
+Intel,Semiconductors,United States,125,6082,2.06,23-05-2025,Automation,Yes
+Meta,Social Media,United States,170,4124,4.12,14-01-2025,Other,Yes
+Amazon,E-commerce,United States,306,9059,3.38,10-03-2024,Merger,Yes
+TCS,IT Services,India,122,9329,1.31,23-01-2024,Merger,No
+Intel,Semiconductors,United States,245,1845,13.28,25-12-2023,Automation,No
+Accenture,Consulting,Ireland,210,5482,3.83,07-06-2025,Merger,Yes
+Salesforce,SaaS,United States,12,4103,0.29,13-09-2023,Automation,No
+Accenture,Consulting,Ireland,98,7641,1.28,16-08-2023,Restructuring,Yes
+Microsoft,Tech,United States,425,3522,12.07,06-02-2025,Pandemic,No
+Meta,Social Media,United States,33,678,4.87,28-09-2023,Restructuring,No
+Capgemini,Consulting,France,37,4595,0.81,16-12-2023,Pandemic,No
+SAP,Enterprise Software,Germany,79,1658,4.76,10-07-2024,Other,Yes
+Accenture,Consulting,Ireland,122,6133,1.99,13-11-2023,Restructuring,Yes
+Netflix,Entertainment,United States,217,4899,4.43,27-09-2024,Cost Cutting,Yes
+Intel,Semiconductors,United States,53,7068,0.75,11-02-2025,Other,No
+Alibaba,E-commerce,China,379,2095,18.09,31-01-2025,Merger,Yes
+Spotify,Music,Sweden,24,7231,0.33,07-07-2024,Restructuring,No
+TCS,IT Services,India,202,7002,2.88,05-01-2025,Pandemic,No
+Salesforce,SaaS,United States,85,352,24.15,09-12-2024,Automation,Yes
+Salesforce,SaaS,United States,53,6307,0.84,01-10-2024,Automation,No
+Netflix,Entertainment,United States,276,6634,4.16,23-03-2025,Restructuring,Yes
+Google,Tech,United States,350,8375,4.18,22-01-2024,Restructuring,No
+Netflix,Entertainment,United States,118,4360,2.71,05-05-2024,Other,No
+IBM,IT Services,United States,80,760,10.53,24-02-2025,Restructuring,Yes
+Accenture,Consulting,Ireland,300,2283,13.14,12-11-2023,Automation,Yes
+Meta,Social Media,United States,171,7181,2.38,30-08-2024,Cost Cutting,No
+Amazon,E-commerce,United States,144,9457,1.52,21-01-2024,Restructuring,No
+Accenture,Consulting,Ireland,40,8666,0.46,11-06-2025,Automation,No
+Microsoft,Tech,United States,51,931,5.48,27-12-2024,Automation,Yes
+Alibaba,E-commerce,China,308,2928,10.52,23-11-2024,Restructuring,Yes
+Microsoft,Tech,United States,82,7663,1.07,11-03-2025,Other,Yes
+Oracle,Enterprise Software,United States,141,4494,3.14,24-01-2024,Pandemic,Yes
+Atlassian,Software,Australia,304,3373,9.01,06-06-2024,Pandemic,Yes
+Microsoft,Tech,United States,437,6628,6.59,14-01-2024,Other,Yes
+Apple,Tech,United States,305,2312,13.19,13-07-2024,Merger,Yes
+Amazon,E-commerce,United States,267,4401,6.07,17-01-2025,Automation,No
+Capgemini,Consulting,France,74,9926,0.75,17-10-2023,Merger,No
+Alibaba,E-commerce,China,453,8794,5.15,01-12-2023,Merger,No
+Nokia,Telecom,Finland,144,1813,7.94,24-01-2024,Pandemic,No
+Google,Tech,United States,282,2464,11.44,15-02-2025,Pandemic,Yes
+Meta,Social Media,United States,12,2458,0.49,10-04-2025,Cost Cutting,Yes
+Microsoft,Tech,United States,38,4530,0.84,25-01-2025,Automation,No
+SAP,Enterprise Software,Germany,47,6152,0.76,15-08-2023,Cost Cutting,No
+Salesforce,SaaS,United States,213,1451,14.68,27-05-2024,Other,No
+Microsoft,Tech,United States,66,3237,2.04,25-04-2025,Restructuring,No
+Salesforce,SaaS,United States,410,4746,8.64,23-11-2024,Cost Cutting,No
+Oracle,Enterprise Software,United States,200,9432,2.12,22-04-2025,Restructuring,Yes
+Infosys,IT Services,India,318,5367,5.93,14-12-2024,Merger,Yes
+Oracle,Enterprise Software,United States,146,5481,2.66,11-01-2025,Automation,No
+Google,Tech,United States,231,4294,5.38,18-12-2023,Other,Yes
+Spotify,Music,Sweden,316,6450,4.9,27-09-2024,Cost Cutting,No
+Amazon,E-commerce,United States,108,1607,6.72,09-10-2024,Automation,Yes
+Oracle,Enterprise Software,United States,467,4191,11.14,16-11-2023,Other,No
+Salesforce,SaaS,United States,218,1901,11.47,16-08-2024,Merger,Yes
+Nokia,Telecom,Finland,206,9008,2.29,31-12-2023,Merger,Yes
+TCS,IT Services,India,262,10049,2.61,29-08-2024,Merger,No
+Salesforce,SaaS,United States,86,6486,1.33,06-08-2023,Merger,Yes
+Spotify,Music,Sweden,446,4071,10.96,03-05-2025,Pandemic,No
+Meta,Social Media,United States,81,7127,1.14,04-09-2023,Pandemic,Yes
+Oracle,Enterprise Software,United States,152,8492,1.79,25-04-2024,Merger,Yes
+IBM,IT Services,United States,72,7705,0.93,05-03-2024,Merger,No
+IBM,IT Services,United States,118,1218,9.69,21-09-2024,Cost Cutting,No
+Spotify,Music,Sweden,493,7751,6.36,03-01-2024,Automation,No
+Tencent,Tech,China,339,8083,4.19,05-10-2024,Cost Cutting,No
+Alibaba,E-commerce,China,178,2856,6.23,09-02-2025,Merger,No
+Google,Tech,United States,173,5374,3.22,13-09-2024,Other,No
+SAP,Enterprise Software,Germany,408,6221,6.56,09-06-2024,Pandemic,No
+Atlassian,Software,Australia,155,2158,7.18,17-08-2024,Restructuring,Yes
+Microsoft,Tech,United States,484,4257,11.37,28-03-2025,Pandemic,Yes
+Intel,Semiconductors,United States,251,891,28.17,03-09-2023,Pandemic,No
+Amazon,E-commerce,United States,334,6426,5.2,12-05-2025,Other,Yes
