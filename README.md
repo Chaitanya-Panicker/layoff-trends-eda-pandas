@@ -1,3 +1,5 @@
+## 📊 Corporate Layoffs Data Analysis
+
 ## 📖 Project Overview  
 The corporate world is no stranger to change — but in recent years, **layoffs have reshaped industries and careers** across the globe.  
 This project dives deep into **real-world layoff data**, stored and queried in **MySQL**, to uncover patterns in **industries, countries, and reasons for workforce reductions**.  
