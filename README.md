@@ -1,4 +1,4 @@
-## 📊 Corporate Layoffs Data Analysis
+### 📊 Corporate Layoffs Data Analysis
 
 ## 📖 Project Overview  
 The corporate world is no stranger to change — but in recent years, **layoffs have reshaped industries and careers** across the globe.  
