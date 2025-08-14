@@ -1,8 +1,9 @@
 # 📊 Corporate Layoffs Data Analysis
 
+<img width="1605" height="917" alt="Screenshot 1" src="https://github.com/user-attachments/assets/a82f6217-cbcb-406a-8655-cc31f5f0f8e7" />
+
 ## 📖 Project Overview  
-The corporate world is no stranger to change — but in recent years, **layoffs have reshaped industries and careers** across the globe.  
-This project dives deep into **real-world layoff data**, stored and queried in **MySQL**, to uncover patterns in **industries, countries, and reasons for workforce reductions**.  
+The corporate world is no stranger to change — but in recent years, **layoffs have reshaped industries and careers** across the globe. This project dives deep into **real-world layoff data**, stored and queried in **MySQL**, to uncover patterns in **industries, countries, and reasons for workforce reductions**.  
 
 By turning raw data into **clear visual narratives**, we aim to help policymakers, businesses, and professionals understand the dynamics driving these workforce shifts.  
 
@@ -53,9 +54,9 @@ By turning raw data into **clear visual narratives**, we aim to help policymaker
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker  
 
 ---
 
